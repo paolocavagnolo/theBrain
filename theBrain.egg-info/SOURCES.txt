@@ -1,0 +1,7 @@
+README.rst
+setup.py
+theBrain/__init__.py
+theBrain.egg-info/PKG-INFO
+theBrain.egg-info/SOURCES.txt
+theBrain.egg-info/dependency_links.txt
+theBrain.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+nose
+sphinx
+oauth2client
+pymongo
+gspread
+pyserial
+telepot
+simplejson
+logging
+plotly
+python-dateutil
